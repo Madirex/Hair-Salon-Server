@@ -10,7 +10,7 @@ El TPV creado para gestionar este servidor:
 ## ⚠ Requisitos
 - Docker y Docker Compose (o ejecutar en H2).
 
-## Mejoras del proyecto
+## ⚙️ Mejoras que se pueden realizar
 Este es un proyecto de prueba que se hizo de forma rápida.
 Mejoras que debería de tener el programa:
 
